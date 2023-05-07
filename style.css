@@ -33,11 +33,12 @@ svg{
 }
 
 #text{
-    fill: none;
-    stroke: #fff;
-    stroke-width: 3;
-    font-size: 85px;
+    fill: #f0b050;
+    stroke: #1f024f;
+    stroke-width: 1;
+    font-size: 100px;
     font-family: 'Bruno Ace SC', sans-serif;
+    font-weight: bolder;
 }
 
 @keyframes bgFadeIn{
